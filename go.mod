@@ -13,7 +13,7 @@ replace k8s.io/client-go => k8s.io/client-go v0.22.1
 
 require (
 	cloud.google.com/go/storage v1.14.0
-	cuelang.org/go v0.4.0
+	cuelang.org/go v0.4.2
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v0.19.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v0.10.0
 	github.com/BurntSushi/toml v0.3.1
