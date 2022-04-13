@@ -2021,23 +2021,23 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@kusto/language-service-next@0.0.42":
-  version "0.0.42"
-  resolved "https://registry.yarnpkg.com/@kusto/language-service-next/-/language-service-next-0.0.42.tgz#58d69d0a7b5727f0101e59da39928b5dfb8c2749"
-  integrity sha512-WI/gZjm4/qeXkA/MpnorXNlhImREafVabGwXOsjnb7VQ8fehOxUTGHbhP9kirJqqSJYx9HG7Pf1CFSYIX9CJJw==
+"@kusto/language-service-next@0.0.54":
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/@kusto/language-service-next/-/language-service-next-0.0.54.tgz#fa2f326f9ccb5251c8be6302cfa17b01bc9eeb1e"
+  integrity sha512-BloBx3ImzMK5bowp276pmqqiUuTA8Cn+vlDHJk70PYHxi7GUoIbgJ+w7ewbIqCcztXLwCpUtm3TXQwYAlrTh6A==
 
 "@kusto/language-service@2.0.0-beta.0":
   version "2.0.0-beta.0"
   resolved "https://registry.yarnpkg.com/@kusto/language-service/-/language-service-2.0.0-beta.0.tgz#70ea2f7c5d076d762a7c9a03194479effd870cd3"
   integrity sha512-HBMASNCxtUe+BPOONpiXhzlCXuS0UIWl9YRrh521dTbEsoDwBN7Orlq6SUlDqKKdy7i4N4+7KtGFwwRjsgke7A==
 
-"@kusto/monaco-kusto@3.2.7":
-  version "3.2.7"
-  resolved "https://registry.yarnpkg.com/@kusto/monaco-kusto/-/monaco-kusto-3.2.7.tgz#57f31022a9790a1cc1f8a2ecfcf866afe67927ba"
-  integrity sha512-PcMGb04G1pKsnPYD1HSkURaLsdw9gcaP9yB+qYWvb178HCwJCGrTGyCO/QmV2CbvRACUQjrtTmLo+llZOmLqDA==
+"@kusto/monaco-kusto@5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@kusto/monaco-kusto/-/monaco-kusto-5.1.0.tgz#30d5b2d09e42639d4bff6e97b7b7a5ceae420198"
+  integrity sha512-BjFLRG9NLnBOSE9+qPKJ8V/M6QP3FslDbhg7VE60obVL62pWq9diu+PIppnwb01kI1dGMgzKJJ1YAWu99bwS4g==
   dependencies:
     "@kusto/language-service" "2.0.0-beta.0"
-    "@kusto/language-service-next" "0.0.42"
+    "@kusto/language-service-next" "0.0.54"
 
 "@lerna/add@4.0.0":
   version "4.0.0"
