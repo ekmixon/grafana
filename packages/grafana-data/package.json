@@ -28,7 +28,7 @@
     "date-fns": "2.21.3",
     "eventemitter3": "4.0.7",
     "lodash": "4.17.21",
-    "marked": "2.0.1",
+    "marked": "4.0.19",
     "rxjs": "7.3.0",
     "xss": "1.0.6"
   },
@@ -41,7 +41,7 @@
     "@types/jest": "26.0.15",
     "@types/jquery": "3.3.38",
     "@types/lodash": "4.14.123",
-    "@types/marked": "1.1.0",
+    "@types/marked": "4.0.6",
     "@types/node": "10.14.1",
     "@types/papaparse": "5.2.0",
     "@types/react": "16.9.9",
