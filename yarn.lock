@@ -2021,23 +2021,23 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@kusto/language-service-next@0.0.42":
-  version "0.0.42"
-  resolved "https://registry.yarnpkg.com/@kusto/language-service-next/-/language-service-next-0.0.42.tgz#58d69d0a7b5727f0101e59da39928b5dfb8c2749"
-  integrity sha512-WI/gZjm4/qeXkA/MpnorXNlhImREafVabGwXOsjnb7VQ8fehOxUTGHbhP9kirJqqSJYx9HG7Pf1CFSYIX9CJJw==
+"@kusto/language-service-next@0.0.59":
+  version "0.0.59"
+  resolved "https://registry.yarnpkg.com/@kusto/language-service-next/-/language-service-next-0.0.59.tgz#ef60e2da8105a6d1ce84aded223da8c5bf404af0"
+  integrity sha512-vde7wqGnGaV5NzJ5QbzFf0nZGYtwS91DT9OX3XtqOwuylNu8+lxh3aYMFU5UOrKpDeY4kk0MOV6+k9pEZKvGGw==
 
-"@kusto/language-service@2.0.0-beta.0":
-  version "2.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/@kusto/language-service/-/language-service-2.0.0-beta.0.tgz#70ea2f7c5d076d762a7c9a03194479effd870cd3"
-  integrity sha512-HBMASNCxtUe+BPOONpiXhzlCXuS0UIWl9YRrh521dTbEsoDwBN7Orlq6SUlDqKKdy7i4N4+7KtGFwwRjsgke7A==
+"@kusto/language-service@0.0.38":
+  version "0.0.38"
+  resolved "https://registry.yarnpkg.com/@kusto/language-service/-/language-service-0.0.38.tgz#944f13fc6b18c212673396f1ec3290d9d46a2919"
+  integrity sha512-CuGnOm0GX3PzSEYuf5NQLmYOZua68cHcoOjeUofsE5eNJiZE1vQHmgxnvSA6hQn1lJYnEIwZlF6+6qEulIpylA==
 
-"@kusto/monaco-kusto@3.2.7":
-  version "3.2.7"
-  resolved "https://registry.yarnpkg.com/@kusto/monaco-kusto/-/monaco-kusto-3.2.7.tgz#57f31022a9790a1cc1f8a2ecfcf866afe67927ba"
-  integrity sha512-PcMGb04G1pKsnPYD1HSkURaLsdw9gcaP9yB+qYWvb178HCwJCGrTGyCO/QmV2CbvRACUQjrtTmLo+llZOmLqDA==
+"@kusto/monaco-kusto@5.3.6":
+  version "5.3.6"
+  resolved "https://registry.yarnpkg.com/@kusto/monaco-kusto/-/monaco-kusto-5.3.6.tgz#8cbe2beabed96d97725ff2b814f2d3bfdea930b8"
+  integrity sha512-0o6k8Zppk2denigjIozWEJJZKVe94f0Sv0BL3KX7OgbkM4ZHnH1+QRwd4bd0LMYmc++7PCZ28QKMefgWHWzmuQ==
   dependencies:
-    "@kusto/language-service" "2.0.0-beta.0"
-    "@kusto/language-service-next" "0.0.42"
+    "@kusto/language-service" "0.0.38"
+    "@kusto/language-service-next" "0.0.59"
 
 "@lerna/add@4.0.0":
   version "4.0.0"
