@@ -221,7 +221,7 @@
     "webpack-bundle-analyzer": "4.4.2",
     "webpack-cleanup-plugin": "0.5.1",
     "webpack-cli": "4.8.0",
-    "webpack-dev-server": "4.0.0",
+    "webpack-dev-server": "4.9.0",
     "webpack-merge": "5.8.0",
     "worker-loader": "^3.0.8"
   },
