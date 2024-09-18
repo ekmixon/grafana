@@ -205,7 +205,7 @@
     "regexp-replace-loader": "1.0.1",
     "rimraf": "3.0.1",
     "rxjs-spy": "8.0.0",
-    "sass": "1.32.13",
+    "sass": "1.79.0",
     "sass-lint": "1.12.1",
     "sass-loader": "12.1.0",
     "sinon": "8.1.1",
